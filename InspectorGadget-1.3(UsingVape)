@@ -1,0 +1,75 @@
+@echo off
+title javaw.exe
+echo.
+echo Running checks...
+ping localhost >nul
+cls
+echo.
+echo Running checks..
+ping localhost >nul
+cls
+echo.
+echo Running checks.
+ping localhost >nul
+cls
+echo.
+echo Running checks...
+ping localhost >nul
+cls
+echo.
+echo Running checks..
+ping localhost >nul
+cls
+echo.
+echo Running checks.
+ping localhost >nul
+cls
+echo.
+echo Running checks...
+ping localhost >nul
+cls
+echo.
+echo Running checks..
+ping localhost >nul
+cls
+echo.
+echo Running checks.
+ping localhost >nul
+cls
+echo.
+echo Running checks...
+ping localhost >nul
+cls
+echo.
+echo Running checks..
+ping localhost >nul
+cls
+echo.
+echo Running checks.
+ping localhost >nul
+cls
+echo.
+echo.
+echo.
+echo Check #1
+echo Failed Type #9
+echo Failed Type #12
+echo.
+echo.
+echo.
+echo Check #2
+echo Passed
+echo.
+echo.
+echo.
+echo Check #3
+echo Passed
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo Made with love by Griffin, Manthe, and Cussin
+pause >nul
